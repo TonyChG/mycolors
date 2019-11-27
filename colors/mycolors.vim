@@ -19,7 +19,7 @@ highlight! CursorLine ctermfg=Black
 
 highlight! WildMenu ctermfg=white ctermbg=Grey
 highlight! Search ctermfg=white ctermbg=Grey
-highlight! Statement ctermfg=Green
+highlight! Statement ctermfg=DarkGreen
 highlight! Identifier ctermfg=Black
 highlight! Type ctermfg=Black
 highlight! PreProc ctermfg=Black
@@ -28,4 +28,4 @@ highlight! Special ctermfg=Black
 highlight! String ctermfg=DarkYellow
 highlight! SpecialKey ctermfg=Black
 highlight! Directory ctermfg=Black
-highlight! Comment  ctermfg=Cyan
+highlight! Comment  ctermfg=DarkBlue
