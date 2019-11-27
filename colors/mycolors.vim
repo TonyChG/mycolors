@@ -4,28 +4,28 @@ highlight clear
 " 232 (#080808), which is close enough.
 
 highlight clear
-highlight! LineNr ctermfg=Black
-highlight! Normal ctermfg=Black
-highlight! NonText ctermfg=Black
-highlight! StatusLine ctermfg=Black
-highlight! StatusLineNC ctermfg=Black
-highlight! VertSplit ctermfg=Black
-highlight! Folded ctermfg=Black
-highlight! FoldColumn ctermfg=Black
-highlight! Conceal ctermfg=Black
-highlight! LineNr ctermfg=Black
-highlight! Visual ctermbg=Black ctermfg=White
-highlight! CursorLine ctermfg=Black
+highlight! LineNr ctermfg=White
+highlight! Normal ctermfg=White
+highlight! NonText ctermfg=White
+highlight! StatusLine ctermfg=White
+highlight! StatusLineNC ctermfg=White
+highlight! VertSplit ctermfg=White
+highlight! Folded ctermfg=White
+highlight! FoldColumn ctermfg=White
+highlight! Conceal ctermfg=White
+highlight! LineNr ctermfg=White
+highlight! Visual ctermbg=White ctermfg=Black
+highlight! CursorLine ctermfg=White
 
-highlight! WildMenu ctermfg=white ctermbg=Grey
-highlight! Search ctermfg=white ctermbg=Grey
-highlight! Statement ctermfg=DarkGreen
-highlight! Identifier ctermfg=Black
-highlight! Type ctermfg=Black
-highlight! PreProc ctermfg=Black
-highlight! Constant ctermfg=Black
-highlight! Special ctermfg=Black
-highlight! String ctermfg=DarkYellow
-highlight! SpecialKey ctermfg=Black
-highlight! Directory ctermfg=Black
-highlight! Comment  ctermfg=DarkBlue
+highlight! WildMenu ctermfg=white ctermbg=DarkBlue
+highlight! Search ctermfg=white ctermbg=DarkBlue
+highlight! Statement ctermfg=Red
+highlight! Identifier ctermfg=White
+highlight! Type ctermfg=White
+highlight! PreProc ctermfg=White
+highlight! Constant ctermfg=White
+highlight! Special ctermfg=White
+highlight! String ctermfg=Yellow
+highlight! SpecialKey ctermfg=White
+highlight! Directory ctermfg=White
+highlight! Comment  ctermfg=Cyan
