@@ -14,13 +14,12 @@ highlight! Folded ctermfg=White
 highlight! FoldColumn ctermfg=White
 highlight! Conceal ctermfg=White
 highlight! LineNr ctermfg=White
-highlight! Visual ctermbg=White ctermfg=Black
 highlight! CursorLine ctermfg=White
 
 highlight! WildMenu ctermfg=white ctermbg=DarkBlue
-highlight! Search ctermfg=white ctermbg=DarkBlue
+highlight! Search ctermfg=black ctermbg=white
 highlight! Statement ctermfg=Red
-highlight! Identifier ctermfg=White
+highlight! Identifier ctermfg=Cyan
 highlight! Type ctermfg=White
 highlight! PreProc ctermfg=White
 highlight! Constant ctermfg=White
