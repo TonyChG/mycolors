@@ -14,7 +14,8 @@ highlight! Folded ctermfg=White
 highlight! FoldColumn ctermfg=White
 highlight! Conceal ctermfg=White
 highlight! LineNr ctermfg=White
-highlight! CursorLine ctermfg=White
+highlight! CursorLine ctermbg=White ctermfg=Black
+highlight! CursorColumn ctermbg=Black ctermfg=Green
 
 highlight! WildMenu ctermfg=white ctermbg=DarkBlue
 highlight! Search ctermfg=black ctermbg=white
